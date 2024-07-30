@@ -1,5 +1,3 @@
-Here's a detailed project structure description for your Time Clock Application, modeled after the format you provided:
-
 ### Project Structure
 
 The project is divided into several components:
